@@ -1,5 +1,9 @@
-fruits
-mango
+
 cherry
 apple
 onion
+
+
+after
+commit
+this line
